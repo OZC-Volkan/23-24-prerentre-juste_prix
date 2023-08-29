@@ -1,4 +1,4 @@
-# Tirage au hasard d'un prix entre 1 et 10
+# Tirage au hasard d'un prix entre 1 et 10 .
 import random
 cible = random.randint(1,10)
 print(cible)
